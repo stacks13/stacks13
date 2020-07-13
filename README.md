@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 💼 I’m currently working on **Django and Cross Platform Development**
 - 📖 I’m currently learning **React Native**
 - 👯 I’m looking to collaborate on **anything that peeks my interest**
-- 🤔 I’m looking for help with **API Development**
 - 📫 How to reach me
   - Discord: *staxen#5031*
   - LinkedIn: https://linkedin.com/in/sahil-nirkhe/
