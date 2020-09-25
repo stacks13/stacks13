@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 💼 I’m currently working on **Django and Cross Platform Development**
-- 📖 I’m currently learning **React Native**
+- 💼 I’m currently working on **Research Project with Space Applications Center (ISRO)**
+- 📖 I’m currently learning **API Development and Cloud**
 - 👯 I’m looking to collaborate on **anything that peeks my interest**
 - 📫 How to reach me
   - Discord: *staxen#5031*
